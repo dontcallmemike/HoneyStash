@@ -1,0 +1,17 @@
+{
+  "name": "Honeystash Scheduler",
+  "short_name": "Honeystash",
+  "description": "Honeystash staff scheduler with roster, requests, daily coverage, breaks, and Google Sheets export.",
+  "id": "/honeystash-scheduler/",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0f0f12",
+  "theme_color": "#0f0f12",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
